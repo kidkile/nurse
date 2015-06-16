@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Traige</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_patient_info">PatientInfo</string>
+    <string name="title_activity_modifysymptoms">Modifysymptoms</string>
+    <string name="Modify">Add Vital Sign/Record Time</string>
+    <string name="heartrate">HeartRate</string>
+    <string name="temprature">Temprature</string>
+    <string name="systolic">Systolic</string>
+    <string name="distolic">Distolic</string>
+    <string name="SubmitV">Submit Vital Sign and Time</string>
+    <string name="SubmitA">Record Arrival Time</string>
+    <string name="time">Update Time, in hhmm</string>
+    <string name="AT">Arrival Time, in hhmm</string>
+    <string name="title_activity_log_in">Traige</string>
+    <string name="password">Password</string>
+    <string name="username">User Name</string>
+    <string name="login">Log In</string>
+    <string name="add">Add description/prescription</string>
+    <string name="time_descrip">Time, in hhmm</string>
+    <string name="description">Description/Prescription</string>
+    <string name="title_activity_add_patient">AddPatient</string>
+    <string name="title_activity_sort_urgency">SortUrgency</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_birth">Birthday, in YYYY-MM-DD</string>
+    <string name="hint_hcn">Health card number</string>
+    <string name="submit">Submit</string>
+    <string name="search_main">Search by health card number…</string>
+    <string name="add_patient">Add new patient</string>
+    <string name="sort_urgency">Get list sorted by uegency…</string>
+    <string name="add_see_doc">Record see doctor time</string>
+</resources>
